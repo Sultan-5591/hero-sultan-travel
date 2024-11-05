@@ -1,0 +1,52 @@
+/* Mulish font styles */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+  font-family: "Mulish", sans-serif;
+  font-family: "Work Sans", serif;
+}
+
+/* shared styles */
+
+/* header styles */
+.logo-container{
+    display: flex;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{
+    transform: scale(0.6);
+
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    padding-right: 35px;
+    color: rgb(66, 66, 71);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.span{
+    color: rgb(255, 84, 0);
+}
+nav h3{
+    font-size: 36px;
+    font-weight: 800;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.home{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+}
