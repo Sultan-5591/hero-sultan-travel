@@ -50,3 +50,15 @@ nav h3{
     letter-spacing: 0%;
     text-align: center;
 }
+/* banner section styles */
+.banner-section{
+    background-image: url(/asset/banner.png);
+    width: 1150px;
+    height: 500px;
+}
+.banner-title{
+    color: rgb(255, 255, 255);
+    font-size: 64px;
+    font-weight: 800;
+    align-items: center;
+}
