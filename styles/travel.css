@@ -104,6 +104,9 @@ nav h3{
     margin-right: 20%;
 }
 /* popular section styles */
+.popular-section{
+    margin: 50px 0px;
+}
 .popular-container{
     display: flex;
 }
