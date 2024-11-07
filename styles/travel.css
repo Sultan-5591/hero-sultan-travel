@@ -122,3 +122,84 @@ nav h3{
     font-weight: 400;
     line-height: 26px;
 }
+/* why choose us section styles */
+.why-choose-us-section{
+    margin: 50px 0px;
+}
+.why-choose-us-main-title{
+    text-align: center;
+    align-items: center;
+}
+.why-choose-us{
+    color: rgb(19, 19, 24);
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+.why-choose-us-description{
+    height: 52px;
+    color: rgba(19, 19, 24, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.handpicked-hotels{
+    width: 573px;
+    height: 284px;
+    box-sizing: border-box;
+    border: 1px solid rgba(251, 181, 99, 0.2);
+    border-radius: 16px;
+    background: rgba(251, 181, 99, 0.05);
+}
+.handpicked-hotels-title{
+    color: rgb(19, 19, 24);
+    font-size: 24px;
+    font-weight: 800;
+    text-align: left;
+}
+.handpicked-hotels-description{
+    color: rgb(90, 90, 93);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+.world-class-service{
+    width: 573px;
+    height: 284px;
+    box-sizing: border-box;
+    border: 1px solid rgba(41, 206, 246, 0.2);
+    border-radius: 16px;
+    background: rgba(41, 206, 246, 0.05);
+}
+.world-class-title{
+    color: rgb(19, 19, 24);
+    font-size: 24px;
+    font-weight: 800;
+    text-align: left;
+}
+.world-class-description{
+    color: rgb(90, 90, 93);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
+.best-price-guarantee{
+    width: 573px;
+    height: 284px;
+    box-sizing: border-box;
+    border: 1px solid rgba(233, 68, 68, 0.2);
+    border-radius: 16px;
+    background: rgba(233, 68, 68, 0.05);
+}
+.best-price-title{
+    color: rgb(19, 19, 24);
+    font-size: 24px;
+    font-weight: 800;
+    text-align: left;
+}
+.best-price-description{
+    color: rgb(90, 90, 93);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+}
