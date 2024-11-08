@@ -277,15 +277,33 @@ nav h3{
     height: 500px; 
     border-radius: 10px;
 }
-.price-and-booknow-container{
+.price-and-booknow-container2{
     width: 47%;
-    height: 350px;
+    height: 390px;
     box-sizing: border-box;
     border: 2px solid rgb(255, 255, 255);
     border-radius: 16px;
-    backdrop-filter: blur(5px);
+    backdrop-filter: blur(1px);
     background: rgba(255, 255, 255, 0.8);
-    padding: 30px;
+    padding: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 540px;
+}
+.price-and-booknow-container{
+    width: 47%;
+    height: 390px;
+    box-sizing: border-box;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 16px;
+    backdrop-filter: blur(1px);
+    background: rgba(255, 255, 255, 0.8);
+    padding: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 540px;
+    margin-right: 50px;
 }
 .price-and-booknow-container-heading{
     display: flex;
