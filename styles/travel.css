@@ -181,6 +181,9 @@ nav h3{
     border: 1px solid rgba(233, 68, 68, 0.2);
     border-radius: 16px;
     background: rgba(233, 68, 68, 0.05);
+    align-items: center;
+    text-align: center;
+    width: 50%;
 }
 .best-price-title{
     color: rgb(19, 19, 24);
@@ -198,6 +201,8 @@ nav h3{
 .handpick-container{
     display: flex;
     justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
 }
 /* video section styles */
 .video-section{
@@ -240,7 +245,7 @@ footer img{
 .footer-logo-container{
     display: flex;
     justify-content: center;
-    padding-top: 50px;
+    padding-top: 40px;
 }
 footer p{
     color: rgb(90, 90, 93);
@@ -261,7 +266,7 @@ footer h3{
     justify-content: center;
     text-align: center;
     align-items: center;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 .footer-rights{
     color: rgb(90, 90, 93);
@@ -270,5 +275,5 @@ footer h3{
     justify-content: center;
     text-align: center;
     align-items: center;
-    padding-top: 50px;
+    padding-top: 20px;
 }
