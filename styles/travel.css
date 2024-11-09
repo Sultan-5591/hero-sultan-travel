@@ -198,6 +198,7 @@ nav h3{
     border: 1px solid rgba(251, 181, 99, 0.2);
     border-radius: 16px;
     background: rgba(251, 181, 99, 0.05);
+    padding: 15px;
 }
 .handpicked-hotels-title{
     color: rgb(19, 19, 24);
@@ -215,6 +216,7 @@ nav h3{
     border: 1px solid rgba(41, 206, 246, 0.2);
     border-radius: 16px;
     background: rgba(41, 206, 246, 0.05);
+    padding: 15px;
 }
 .world-class-title{
     color: rgb(19, 19, 24);
@@ -235,6 +237,7 @@ nav h3{
     align-items: center;
     text-align: center;
     width: 50%;
+    padding: 15px;
 }
 .best-price-title{
     color: rgb(19, 19, 24);
@@ -368,7 +371,6 @@ nav h3{
     border-radius: 10px;
     padding-left: 30px;
     padding-right: 30px;
-
 }
 .newsletter-subscribe-title{
     color: rgb(19, 19, 24);
@@ -382,6 +384,18 @@ nav h3{
     font-weight: 400;
     text-align: left;
 }
+.input{
+    width: 393px;
+    height: 48px;
+    border-radius: 8px;
+    background: rgba(19, 19, 24, 0.05);
+    margin-bottom: 20px;
+    padding-left: 15px;
+}
+.input-1{
+    
+}
+
 /* newsletter section styles End */
 
 /* footer section styles Start */
